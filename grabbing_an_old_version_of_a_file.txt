@@ -1,0 +1,3 @@
+Say that you want to save an older verison of a particular file in your current workspace. This can be achieved if you use the following command: 
+
+git show HASH:file/path/name.ext > some_new_name.ext
